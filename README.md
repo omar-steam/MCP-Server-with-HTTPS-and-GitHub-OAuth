@@ -14,3 +14,5 @@ Before you begin, ensure you have the following installed on your system:
 - [OpenSSL](https://slproweb.com/products/Win32OpenSSL.html) (for generating SSL certificates)
 
 ## Setup Instructions
+### Step 1: Clone the Repository
+Clone this repository to your local machine:
