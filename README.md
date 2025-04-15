@@ -16,3 +16,8 @@ Before you begin, ensure you have the following installed on your system:
 ## Setup Instructions
 ### Step 1: Clone the Repository
 Clone this repository to your local machine:
+
+`` git clone https://github.com/your-username/mcp-server.git
+cd mcp-server ``
+
+
