@@ -117,7 +117,7 @@ Special thanks to:
 
 ---
 
-### Enjoy building your secure MCP server guys! 🎉
+### Enjoy building your secure MCP server guys! 🔥🔥🔥
 
 ---
 
