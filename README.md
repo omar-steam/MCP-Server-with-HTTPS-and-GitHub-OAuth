@@ -78,7 +78,7 @@ Access `/secure-data` to test a route that requires authentication:
 If you’re not authenticated, you’ll see a `401 Unauthorized` error.
 
 ## Project Structure
-``
+``bash
 mcp-server/
 ├── key.pem # Private key for HTTPS
 ├── cert.pem # Self-signed certificate for HTTPS
