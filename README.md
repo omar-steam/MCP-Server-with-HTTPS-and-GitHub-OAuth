@@ -85,7 +85,8 @@ mcp-server/
 ├── server.js # Main server file
 ├── package.json # Project metadata and dependencies
 ├── .env # Environment variables (not included in version control)
-└── README.md # Project documentation (this file)``
+└── README.md # Project documentation (this file)
+``
 
 ## Troubleshooting
 
